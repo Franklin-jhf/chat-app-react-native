@@ -22,6 +22,7 @@
     "expo": "^20.0.0",
     "react": "16.0.0-alpha.12",
     "react-native": "^0.47.0",
+    "react-native-reversed-flat-list": "^1.0.2",
     "react-native-training-chat-server": "^1.1.2"
   },
   "description": "This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).",
